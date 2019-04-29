@@ -1,0 +1,13 @@
+Package: ztcoins
+Type: Package
+Title: A Package to Help Analyze Coin Data
+Version: 0.0.0.9000
+Authors@R: person("Zac", "Tomlinson", email = "ztomlins@mail.usf.edu", role = c("aut", "cre"))
+Maintainer: The package maintainer <ztomlins@mail.usf.edu>
+Description: Features a number of functions to analyze common data types in coin databases
+Depends: 
+Imports: 
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
